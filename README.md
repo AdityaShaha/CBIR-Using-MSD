@@ -1,5 +1,5 @@
 # CBIR-Using-MSD
-The project is an attempt to implement the paper Content Based Image Retrieval using Micro structure Descriptors by Guang-Hai Liu et all. in Python
+The project is an attempt to implement the paper Content Based Image Retrieval using Micro structure Descriptors by Guang-Hai Liu et al. in Python.The project was done under the guidance of [Prof. Naveen Kumar N](https://research.vit.ac.in/researcher/naveen-kumar-n)
 
 ## Micro Structure Descriptors
 
